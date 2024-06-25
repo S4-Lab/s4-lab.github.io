@@ -1,5 +1,5 @@
 ---
-title: Embedded Networked Systems (EE 107)
+title: Home
 layout: home
 ---
 
