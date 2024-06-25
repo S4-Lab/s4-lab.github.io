@@ -28,3 +28,7 @@ The lectures will focus on the key enabling components of embedded systems, incl
 * Participation (5%)
 
 Describe late policy here.
+
+## Generative AI Tools Policy
+
+The use of or consultation with generative AI (e.g. Chat GPT) shall be treated ...
