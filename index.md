@@ -21,11 +21,11 @@ The lectures will focus on the key enabling components of embedded systems, incl
 
 ## Grading
 
-* 4 Assignments (50%)
-* Homework (5%)
-* Midterm (10%)
-* Project (30%)
-* Participation (5%)
+* 50% - 4 Assignments
+* 5%  - Homework
+* 10% - Midterm
+* 30% - Project
+* 5%  - Participation
 
 Describe late policy here.
 
