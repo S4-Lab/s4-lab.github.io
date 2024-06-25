@@ -26,3 +26,5 @@ The lectures will focus on the key enabling components of embedded systems, incl
 * Midterm (10%)
 * Project (30%)
 * Participation (5%)
+
+Describe late policy here.
