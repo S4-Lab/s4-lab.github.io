@@ -18,3 +18,11 @@ The lectures will focus on the key enabling components of embedded systems, incl
 * **Course Assistants:** Chae Young Lee (chae [at] stanford.edu)
 * **Lectures:** MW 12:30-1:50 in Packard 230
 * **Lab and Office Hours:** Packard 001
+
+## Grading
+
+* 4 Assignments (50%)
+* Homework (5%)
+* Midterm (10%)
+* Project (30%)
+* Participation (5%)
