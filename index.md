@@ -4,9 +4,9 @@ layout: home
 nav_order: 1
 ---
 
-# Embedded Networked Systems
+# Introduction to Embedded Systems
 
-Welcome to Embedded Networked Systems!
+Welcome to Introduction to Embedded Systems Spring 2025!
 
 Networked embedded systems are often hidden from our view, but they are a key component that enables our modern society. Embedded systems bridge our physical world with powerful digital measurement and control systems. Applications of today's embedded systems range from stabilization in drones authentication in credit cards, and even temperature control in toasters. In this class, students will learn about how to build an networked embedded system from the ground up.
 
