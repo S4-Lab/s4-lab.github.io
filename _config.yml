@@ -1,7 +1,7 @@
-name: "Fraser Lab"
+name: "S4 Lab"
 description: "This is the official web page for the James Fraser Lab at UCSF."
 
-url: "https://s4-lab.github.io/s4.github.io"
+url: ""
 
 paginate: 5
 plugins: [jekyll-paginate]
