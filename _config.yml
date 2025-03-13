@@ -43,6 +43,6 @@ collections:
         undergrads:
                 output: true
         pets:
-                output: true
+                output: false
         tags:
                 output: true

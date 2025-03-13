@@ -2,7 +2,7 @@
 name: Zerina Kapetanovic
 startdate: [2023-09-01]
 enddate: []
-image: /static/img/members/kapetanovic.jpg
+image: /static/img/members/kapetanovic.JPG
 # altimage: /static/img/members/Fraser_pb.jpg
 position: Principal Investigator
 #current:
@@ -11,7 +11,6 @@ email: zerina (at) stanford.com
 scholar: cxgcHywAAAAJ
 website: zerinakapetanovic.com
 Stanford: zerina-kapetanovic
-twitter: zkapetanovic
 linkedin:  zerina-kapetanovic
 github: zkapetanovic
 orcid: 0000-0001-6240-5511

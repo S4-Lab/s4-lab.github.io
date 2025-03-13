@@ -3,8 +3,8 @@ name: Tim Jacques
 timeline_name: #Fill this out if you'd like your name to appear differently on the Timeline.
 startdate: [2024-09-01]
 enddate: #[YYYY-MM-DD]
-image: /static/img/members/lee.jpeg #365 x 365 pixels, 72 dpi
-altimage: /static/img/members/lee.jpeg #365 x 365 pixels, 72 dpi
+image: /static/img/members/tim.png #365 x 365 pixels, 72 dpi
+altimage: /static/img/members/tim.png #365 x 365 pixels, 72 dpi
 position: Graduate Student 
 #subsequent:  update once you become an alumnus
 pronouns:  #personal pronouns
