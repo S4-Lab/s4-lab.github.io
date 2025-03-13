@@ -21,14 +21,14 @@ group: contact
 
 <div class="col-md-4">
 
-  <h4>James Fraser, Ph.D.</h4>
-  Professor<br>
-  [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu)<br>
-  [California Institute of Quantitative Biosciences (QB3)](https://qb3.org)<br>
-  600 16th Street, Genentech Hall Room S472E<br>
-  San Francisco, CA 94143<br>
-  email: jfraser (at) fraserlab.com <br>
-  tel: 415 502 1863
+  <h4>Zerina Kapetanovic</h4>
+  Assistant Professor<br>
+  [Department of Electrical Engineering](http://bts.ucsf.edu)<br>
+  [Stanford University](https://qb3.org)<br>
+  David Packard Building<br>
+  Stanford, CA 94143<br>
+  email: zerina (at) stanford.edu <br>
+
 
 </div>
 
