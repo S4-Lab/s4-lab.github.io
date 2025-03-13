@@ -13,7 +13,7 @@ scholar: upxh27QAAAAJ
 website: genevaecola.com
 UCSF: #UCSF Profile ID - Employees only
 twitter: # Tiwitter Account
-linkedin: # LinkedIn Account
+linkedin: linkedin.com/in/geneva-ecola
 github: 
 orcid: 0009-0006-6490-6778 
 description: "Geneva is a 4th year PhD candidate in Electrical Engineering working in the S4 lab. She received her B.S. in Engineering from Harvey Mudd College in 2019. After college she worked as a radio frequency design engineer at Trellisware Technologies for two years in San Diego before starting her graduate studies in 2021. She received her M.S. in Electrial Engineering from Stanford in 2023 and is currently working towards her Ph.D. in Electrical Engineering. During graduate school, she interned at Apple on their Radio Freqeuncy Integrity team and Tesla on their wireless hardware team. She received the Stanford Graduate Fellowship twice (2021 and 2024) and the Apple Stanford EE PhD Fellowship in Integrated Systems. Her research interests include ultra low power sensing and communications systems, as well as using satellite systems to provide connectivity all over Earth.
