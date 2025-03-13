@@ -16,7 +16,7 @@ twitter: # Tiwitter Account
 linkedin: # LinkedIn Account
 github: 
 orcid: # ordcid 
-description: "Geneva..... 
+description: "Geneva is a 4th year PhD candidate. 
 
 "
 ---
