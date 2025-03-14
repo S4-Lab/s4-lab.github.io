@@ -16,7 +16,7 @@ We have open positions for Stanford undergraduate Students. Please email zerina 
 
 ## Post-docs 
 
-We are looking for self-funded and highly motivated postdocs to join our group. Exprience with embedded systems, wirleess communication, and sensing is required. Please email zerina (at) stanford.edu to apply
+We are looking for self-funded and highly motivated postdocs to join our group. Exprience with embedded systems, wireless communication, and sensing is required. Please email zerina (at) stanford.edu to apply
 
 ***Stanford has many postdoc funding opportunities:*** https://postdocs.stanford.edu/fellowships
 
