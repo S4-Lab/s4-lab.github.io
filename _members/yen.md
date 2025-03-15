@@ -9,11 +9,11 @@ position: Graduate Student
 pronouns:  He/him #personal pronouns
 email: billyen (at) stanford.edu #Preferred public email address
 scholar: x3R7ZNQAAAAJ #Google Scholar User ID
-website: https://billyen33.com/
+website: billyen33.com/
 Stanford: https://profiles.stanford.edu/bill-yen?releaseVersion=10.5.2 #UCSF Profile ID - Employees only
 twitter: # Twitter 
-linkedin: https://www.linkedin.com/in/bill-yen/ # LinkedIn
-github: https://github.com/billyen33
+linkedin: bill-yen # LinkedIn
+github: billyen33
 orcid: 0009-0007-8539-9223 # orcid 
 description: "Bill Yen is a Ph.D. candidate in the Department of Electrical Engineering at Stanford University working in the area of low-power Internet of Things (IoT) systems. He is an interdisciplinary maker and environmental scientist passionate about solving issues related to food, water, and energy using smart technologies.
 <br/>
