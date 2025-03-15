@@ -6,10 +6,10 @@ image: /static/img/members/yen.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/yen.jpg #365 x 365 pixels, 72 dpi
 position: Graduate Student
 #subsequent:  update once you become an alumnus
-pronouns:  He/him #personal pronouns
+pronouns:  He/him/his #personal pronouns
 email: billyen (at) stanford.edu #Preferred public email address
 scholar: x3R7ZNQAAAAJ #Google Scholar User ID
-website: billyen33.com/
+website: billyen33.com
 Stanford: https://profiles.stanford.edu/bill-yen?releaseVersion=10.5.2 #UCSF Profile ID - Employees only
 twitter: # Twitter 
 linkedin: bill-yen # LinkedIn
