@@ -59,7 +59,8 @@ group: publications
 			<li>{% if publication.github.size > 1 %}{%else%}{% endif %}
 				{% for record in publication.github %}
 					<a href="https://www.github.com/{{record.url}}/" alt="GitHub Repository: {{record.url}} (opens in new tab)" target="_blank">
-						<img class="inline-block mem-icon" src="/static/img/logo/github_logo.svg"> {{record.url}}</a>{% if record.description %} ({{record.description}}){% endif %}{% unless forloop.last %}, {% endunless %}
+						<!-- <img class="inline-block mem-icon" src="/static/img/logo/github_logo.svg"> {{record.url}}</a>{% if record.description %} ({{record.description}}){% endif %}{% unless forloop.last %}, {% endunless %} -->
+						<img class="inline-block mem-icon" src="/static/img/logo/github_logo.svg"> Code</a>
 				{% endfor %}
 			</li>
 			{% endif %}
