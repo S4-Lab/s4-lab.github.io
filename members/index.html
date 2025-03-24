@@ -29,7 +29,8 @@ group: members
                 {{member.position | markdownify | remove: '<p>' | remove: '</p>' }} <br>
                 <em>{{member.email}}</em> <br>
                 {% if member.website %}
-                  <a style="overflow-wrap: break-word;" href= "{{member.website}}">{{member.website}}</a> <br>
+                  <a ><img class="inline-block mem-icon" src="/static/img/logo/home_logo.svg"></a>
+                  <a href= "{{member.website}}"> Personal Website </a> <br>
                 {% endif %}
                 {% if member.orcid %}
                   <a href="http://orcid.org"><img class="inline-block mem-icon" src="/static/img/logo/orcid_logo.svg"></a>

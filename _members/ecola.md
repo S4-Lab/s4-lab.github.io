@@ -10,7 +10,7 @@ position: Graduate Student
 pronouns: she/her/hers
 email: gecola (at) stanford.edu #Preferred public email address
 scholar: upxh27QAAAAJ
-website: genevaecola.com
+website: https://genevaecola.com
 UCSF: #UCSF Profile ID - Employees only
 twitter: # Tiwitter Account
 linkedin: linkedin.com/in/geneva-ecola
