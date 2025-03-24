@@ -9,7 +9,7 @@ position: Principal Investigator
 pronouns: she/her/hers
 email: zerina (at) stanford.com
 scholar: cxgcHywAAAAJ
-website: zerinakapetanovic.com
+website: https://www.zerinakapetanovic.com
 Stanford: zerina-kapetanovic
 linkedin:  zerina-kapetanovic
 github: zkapetanovic
