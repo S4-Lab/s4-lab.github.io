@@ -63,7 +63,7 @@ blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah 
 ### Wearable Devices for Women's Health &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <div class="col-md-7 order-md-2">
-Womens health has been historically underrepresented in medical studies thus leading to a shortage of data that accurately represents women. With the growth peronsal wearable devices, we see an opportunity to expand womens understanding of their personal health as well as develop a stronger base of data for womens health research. 
+Womens health has been historically underrepresented in medical studies thus leading to a shortage of data that accurately represents women. With the growth of wearable devices, we see an opportunity to expand womens understanding of their personal health as well as develop a stronger base of data for womens health research. In the S4 lab, we are develop energy-efficient and lightweight wearable devices for health monitoring.
 <!-- Our current projects are focused on wearable devices for mothers, in particularly for measuring lacation.    -->
 </div>
 

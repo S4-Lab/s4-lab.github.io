@@ -8,7 +8,7 @@ altimage: /static/img/members/eli.jpeg #365 x 365 pixels, 72 dpi
 position: Graduate Student 
 #subsequent:  update once you become an alumnus
 pronouns:  #personal pronouns
-email:  (at) stanford.edu #Preferred public email address
+email: lechien (at) stanford.edu #Preferred public email address
 scholar: #Google Scholar User ID
 website:
 UCSF: #UCSF Profile ID - Employees only
@@ -16,7 +16,7 @@ twitter: # Tiwitter Account
 linkedin: # LinkedIn Account
 github: 
 orcid: # ordcid 
-description: "Eli..... 
+description: "Eli is a Masters student in the electrical engineering department at Stanford University. 
 
 "
 ---
