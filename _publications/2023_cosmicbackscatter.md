@@ -1,6 +1,6 @@
 ---
 title: "Cosmic Backscatter: New Ways to Communicate via Modulated Noise"
-authors: "**Z. Kapetanovic**, S. Garman, D. Stotland, J.R. Smith"
+authors: "Z. Kapetanovic, S. Garman, D. Stotland, J.R. Smith"
 journal: "ACM HotNets"
 pub_date: "2023"
 image: "/static/img/pub/2023_cosmicbackscatter.png"

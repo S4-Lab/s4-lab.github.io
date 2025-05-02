@@ -1,6 +1,6 @@
 ---
 title: "Glaze: Overlaying Occupied Specturm with Downlink IoT Transmissions"
-authors: "**Z. Kapetanovic**, A. Saffari, R. Chandra, J.R. Smith"
+authors: "Z. Kapetanovic, A. Saffari, R. Chandra, J.R. Smith"
 journal: "ACM IMWUT"
 pub_date: "2020"
 image: "/static/img/pub/2020_glaze.png"

@@ -1,6 +1,6 @@
 ---
 title: "WHISPER: IoT in the TV White Space Spectrum"
-authors: "T. Chakraborty, H. Shi, **Z. Kapetanovic**, B. PRiyantha, D. Vasisht, B. Vu, P. Pandit, P. Pillai, Y. Chabria, A. Nelson, M. Daum, R. Chandra"
+authors: "T. Chakraborty, H. Shi, Z. Kapetanovic, B. PRiyantha, D. Vasisht, B. Vu, P. Pandit, P. Pillai, Y. Chabria, A. Nelson, M. Daum, R. Chandra"
 journal: "USENIX NSDI"
 pub_date: "2022"
 image: "/static/img/pub/2022_whisperNSDI.png"

@@ -1,6 +1,6 @@
 ---
 title: "Communication by Means of Modulated Johnson Noise"
-authors: "**Z. Kapetanovic**, J.R. Smith, M. Morales"
+authors: "Z. Kapetanovic, J.R. Smith, M. Morales"
 journal: "PNAS"
 pub_date: "2022"
 image: "/static/img/pub/johnson_anechoic.jpeg"
