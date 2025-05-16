@@ -10,7 +10,7 @@ pronouns:  He/him/his #personal pronouns
 email: billyen (at) stanford.edu #Preferred public email address
 scholar: x3R7ZNQAAAAJ #Google Scholar User ID
 website: https://billyen33.com
-Stanford: https://profiles.stanford.edu/bill-yen?releaseVersion=10.5.2 #UCSF Profile ID - Employees only
+Stanford: bill-yen?releaseVersion=10.5.2 #UCSF Profile ID - Employees only
 twitter: # Twitter 
 linkedin: bill-yen # LinkedIn
 github: billyen33
