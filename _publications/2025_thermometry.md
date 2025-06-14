@@ -5,6 +5,6 @@ journal: "Under Review"
 pub_date: "2025"
 image: "/static/img/pub/2025_thermometry.png"
 doi: ""
-pdf: ""
+pdf: "https://ieeexplore.ieee.org/abstract/document/11018425"
 ---
 
