@@ -47,7 +47,10 @@ Low-power wireless communication, such as backscatter, has played a critical rol
 ### Energy-efficient Computing for Embedded Systems
 <div class="col-md-7 order-md-2">
 
-blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah 
+As embedded devices become more capable, enabling real-time perception and decision-making at the edge is becoming increasingly important for applications in sensing, robotics, and environmental surveys. However, traditional machine learning models are too resource-intensive for low-power microcontrollers that operate in the field for months or years on battery power alone. We develop new approaches to energy-efficient computing that enable intelligent behavior on highly resource-constrained platforms.
+
+Our work explores lightweight and brain-inspired computing frameworks such as Vector Symbolic Architecture (VSA), which use compact vector representations and simple arithmetic to enable robust learning and inference at the edge. Projects include HyperCam (ACM MobiCom 2025) that performs onboard vision processing to reduce communication cost, and NavHD (IEEE IROS 2025), a micro-robotic navigation system that supports real-time control using ultra-fast, low-power reinforcement learning.
+
 </div>
 
 <div class="col-md-5 order-md-2 align-self-center">
