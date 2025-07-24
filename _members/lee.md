@@ -10,13 +10,13 @@ position: Graduate Student
 pronouns:  #personal pronouns
 email: chae (at) stanford.edu #Preferred public email address
 scholar: #Google Scholar User ID
-website:
+website: https://stanford.edu/~chae/
 UCSF: #UCSF Profile ID - Employees only
 twitter: # Tiwitter Account
 linkedin: # LinkedIn Account
-github: 
+github:
 orcid: # ordcid 
-description: "Chaeyoung..... 
+description: "Chae Young is a 2nd year Ph.D. candidate in Computer Science. She received her B.S. in Electrical Engineering & Computer Science from Yale in 2023. Her research focuses on optimizing machine learning systems for resource-constrained, battery-powered hardware and building real-world applications.
 
 "
 ---
