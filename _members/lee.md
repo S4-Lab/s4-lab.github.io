@@ -9,7 +9,7 @@ position: Graduate Student
 #subsequent:  update once you become an alumnus
 pronouns:  #personal pronouns
 email: chae (at) stanford.edu #Preferred public email address
-scholar: https://scholar.google.com/citations?user=4Gx09PoAAAAJ&hl=en&inst=5746887945952177237&oi=sra #Google Scholar User ID
+scholar: 4Gx09PoAAAAJ #Google Scholar User ID
 website: https://stanford.edu/~chae/
 UCSF: #UCSF Profile ID - Employees only
 twitter: # Tiwitter Account
