@@ -1,5 +1,5 @@
 ---
-title: "Low-Power Neuromorphic Learning for Micro-Robotic Controls in the Wild"
+title: "NavHD: Low-Power Learning for Micro-Robotic Controls in the Wild"
 authors: "C. Lee, S. Achour, Z. Kapetanovic"
 journal: "IEEE IROS"
 pub_date: "2025"
