@@ -16,7 +16,7 @@ twitter: # Tiwitter Account
 linkedin: # LinkedIn Account
 github:
 orcid: # ordcid 
-description: "Chae Young is a 2nd year Ph.D. candidate in Computer Science. She received her B.S. in Electrical Engineering & Computer Science from Yale in 2023. Her research focuses on optimizing machine learning systems for resource-constrained, battery-powered hardware and building real-world applications.
+description: "Chae Young is a 2nd year Ph.D. candidate in Computer Science. She received her B.S. in Electrical Engineering & Computer Science from Yale in 2023, where she was advised by Professor Lin Zhong. Her research focuses on optimizing machine learning systems for resource-constrained, battery-powered hardware and building real-world applications. She has been recognized as one of the Rising Stars by ACM MobiSys 2025 and has published in top conferences such as ACM MobiCom, ACM ASPLOS, ACM MobiSys, and IEEE IROS.
 
 "
 ---
