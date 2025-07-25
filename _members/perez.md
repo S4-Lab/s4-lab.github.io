@@ -8,7 +8,7 @@ position: Undergraduate Student
 linkedin: teresa23perez # LinkedIn
 Stanford: teresa-perez
 subsequent: 
-description: "Teresa is a Mechanical Engineering undergraduate at Stanford University, specializing in product design with an interest in sustainable design. She is working on the ocean profiler project with the S4 lab to create a form-factor enclosure for the CTD profiler.
+description: "Teresa is a Mechanical Engineering undergraduate at Stanford University, specializing in product design with an interest in sustainable design. She is working on the ocean profiler project with the S4 lab to create the form-factor housing for the CTD profiler.
 
 "
 ---
