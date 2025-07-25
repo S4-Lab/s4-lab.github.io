@@ -16,7 +16,7 @@ twitter: # Tiwitter Account
 linkedin: # LinkedIn Account
 github: 
 orcid: # ordcid 
-description: "Eli is a Masters student in the electrical engineering department at Stanford University. 
+description: "Eli LeChien is a Master’s student in Electrical Engineering at Stanford University, specializing in circuits, optimization, and robotics. He previously studied at Purdue University, where he conducted research on sustainable in-motion wireless charging for electric semi trucks. Eli has completed two internships at Tesla, working on high-volume drive unit manufacturing and drive system simulation and design. His current involvement in the S4 lab focuses on the design of low-power embedded systems for sustainability applications, building systems that are both resource-efficient and scalable in field deployments.
 
 "
 ---
