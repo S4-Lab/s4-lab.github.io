@@ -5,7 +5,7 @@ group: home
 ---
 
 <div style="text-align: center;">
-  <img src="/static/img/logo/s4_group_pic.png" alt="Stanford University" style="max-width: 100%; height: auto;">
+  <img src="/static/img/logo/s4_group_pic.jpg" alt="Stanford University" style="max-width: 100%; height: auto;">
 </div>
 
 # Welcome to the Stanford Smart Sensing Systems (S4) Lab!
