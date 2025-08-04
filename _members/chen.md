@@ -14,7 +14,7 @@ website: https://sites.google.com/stanford.edu/samchen/home
 Stanford: samchen2
 twitter: # Tiwitter Account
 linkedin: # LinkedIn Account
-github: https://github.com/samshuanlin
+github: samshuanlin
 orcid: # ordcid 
 description: "Sam is a 4th-year undergraduate student studying EE at Stanford University with a concentration on hardware/software systems. He is from Taipei, Taiwan and is interested in embedded firmware and energy-efficient hardware/PCB design in consumer-facing applications."
 ---
