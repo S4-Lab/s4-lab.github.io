@@ -6,7 +6,6 @@ group: join
 
 # Join the S4 Lab
 
-
 ## Graduate Students
 We are always looking for highly motivated graduate students to join our group! Once adtmitted to Stanford, please email zerina (at) stanford.edu for more information. 
 

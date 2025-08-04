@@ -1,14 +1,13 @@
 ---
-title: Join the S4 Lab
+title: S4 Lab in Action
 layout: default
 group: gallery
 ---
 
-## Gallery?
 
-<div class="col-md-5 order-md-2 align-self-center">
-<img class="img-fluid" src="/static/img/members/eli.jpeg" alt="FarmBeats">
-<img class="img-fluid" src="/static/img/members/eli.jpeg" alt="FarmBeats">
-<img class="img-fluid" src="/static/img/members/eli.jpeg" alt="FarmBeats">
-<img class="img-fluid" src="/static/img/members/eli.jpeg" alt="FarmBeats">
-</div>
+# Group Outings
+{% include carousel.html height="40" unit="%" duration="5" filter="img/action/" controlposition="90%" indicatorposition="90%" %}
+
+# S4 Lab in Action 
+{% include carousel.html height="40" unit="%" duration="5" filter="img/action/" controlposition="90%" indicatorposition="90%" %}
+
