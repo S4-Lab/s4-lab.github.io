@@ -14,6 +14,10 @@
   link: "/members"
   group: members
 
+- name: gallery
+  link: "/gallery"
+  group: gallery
+
 - name: join
   link: "/join"
   group: join
