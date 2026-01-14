@@ -1,6 +1,6 @@
 ---
 name: Ben Nguyen
-startdate: [2023-09-01]
+startdate: [2025-09-01]
 enddate: []
 image: /static/img/members/nguyen.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/nguyen.jpg #365 x 365 pixels, 72 dpi
