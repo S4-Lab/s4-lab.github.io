@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Research - S4 Lab</title>
+    <link rel="stylesheet" href="css/style.css?v=18">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-brand">
+                <a href="index.html"><img src="img/color_logo.png" alt="S4 Lab" class="nav-logo"></a>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="research.html" class="active">Research</a></li>
+                <li><a href="people.html">People</a></li>
+                <li><a href="publications.html">Publications</a></li>
+                <li><a href="support.html">Support</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Page Header -->
+    <section class="page-header">
+        <div class="container">
+            <h1>Our Research</h1>
+        </div>
+    </section>
+
+    <!-- Research Projects -->
+    <section class="research-section">
+        <div class="container">
+            <div class="theme-list">
+
+                <!-- Area 1: Environmental Monitoring -->
+                <div class="theme-block">
+                    <div class="theme-header">
+                        <div class="theme-icon">
+                            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                                <path d="M12 2C8 6 6 10 6 13a6 6 0 0012 0c0-3-2-7-6-11z"></path>
+                                <path d="M12 8v9"></path>
+                            </svg>
+                        </div>
+                        <div class="theme-header-text">
+                            <h3>Wireless Sensing Systems</h3>
+                            <p class="theme-description">We develop energy-efficient sensor solutions for challenging environments — oceans, farms, forests — that lack power and communication infrastructure. Addressing the need to monitor large areas sustainably requires rethinking how sensors communicate, harvest energy, and are deployed at scale.</p>
+                        </div>
+                    </div>
+                    <div class="project-carousel">
+                        <button class="carousel-btn carousel-prev" aria-label="Previous projects">‹</button>
+                        <div class="project-track">
+                            <a class="project-card" href="publications.html#nsdi2017">
+                                <img src="img/publications/sensorbox.JPG" alt="FarmBeats">
+                                <h4>FarmBeats</h4>
+                                <p>End-to-end AI and IoT platform for data-driven agriculture (now on Microsoft Azure Marketplace)</p>
+                            </a>
+                            <a class="project-card" href="publications.html#mobisys2026">
+                                <img src="img/publications/ospree_mobisys.png" alt="OSPREE">
+                                <h4>OSPREE</h4>
+                                <p>Drone-deployable profiler for low-cost, scalable ocean observation (ACM MobiSys 2026)</p>
+                            </a>
+                            <a class="project-card" href="publications.html#microwaves2025">
+                                <img src="img/publications/2025_thermometry.png" alt="Wireless Johnson Noise Thermometry">
+                                <h4>Wireless Johnson Noise Thermometry</h4>
+                                <p>Passive temperature sensing using the thermal noise of a resistor (IEEE Journal of Microwaves 2025)</p>
+                            </a>
+                        </div>
+                        <button class="carousel-btn carousel-next" aria-label="Next projects">›</button>
+                    </div>
+                </div>
+
+                <!-- Area 2: Wireless Communication -->
+                <div class="theme-block">
+                    <div class="theme-header">
+                        <div class="theme-icon">
+                            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                                <path d="M4 4s4 3 4 8-4 8-4 8"></path>
+                                <path d="M9 7s3 2.5 3 5-3 5-3 5"></path>
+                                <circle cx="17" cy="12" r="1.5" fill="currentColor" stroke="none"></circle>
+                            </svg>
+                        </div>
+                        <div class="theme-header-text">
+                            <h3>Wireless Communication</h3>
+                            <p class="theme-description">We explore fundamentally new approaches to wireless communication that require no powered RF transmitter — using thermal noise, backscatter, and even cosmic noise sources as the basis for communication. These techniques enable sensors to transmit data with near-zero power budgets.</p>
+                        </div>
+                    </div>
+                    <div class="project-carousel">
+                        <button class="carousel-btn carousel-prev" aria-label="Previous projects">‹</button>
+                        <div class="project-track">
+                            <a class="project-card" href="publications.html#pnas2022">
+                                <img src="img/publications/johnson_anechoic.jpeg" alt="Johnson Noise Communication">
+                                <h4>Johnson Noise Communication</h4>
+                                <p>Transmitting data by modulating the thermal noise of a resistor — no RF generation required (PNAS 2022)</p>
+                            </a>
+                            <a class="project-card" href="publications.html#sensys2025">
+                                <img src="img/publications/2025_sarlink.png" alt="SARLink">
+                                <h4>SARLink</h4>
+                                <p>Satellite backscatter using Synthetic Aperture Radar for remote sensor connectivity (ACM SenSys 2025)</p>
+                            </a>
+                            <a class="project-card" href="publications.html#hotnets2023">
+                                <img src="img/publications/2023_cosmicbackscatter.png" alt="Cosmic Backscatter">
+                                <h4>Cosmic Backscatter</h4>
+                                <p>Using extraterrestrial noise sources for wireless communication (ACM HotNets 2023)</p>
+                            </a>
+                            <a class="project-card" href="publications.html#imwut2020">
+                                <img src="img/publications/2020_glaze.png" alt="Glaze">
+                                <h4>Glaze</h4>
+                                <p>Overlaying IoT transmissions on occupied spectrum (ACM IMWUT 2020)</p>
+                            </a>
+                            <a class="project-card" href="publications.html#nsdi2022">
+                                <img src="img/publications/2022_whisperNSDI.png" alt="WHISPER">
+                                <h4>WHISPER</h4>
+                                <p>Long-range IoT in the TV White Space spectrum (USENIX NSDI 2022, ACM GetMobile 2022)</p>
+                            </a>
+                        </div>
+                        <button class="carousel-btn carousel-next" aria-label="Next projects">›</button>
+                    </div>
+                </div>
+
+                <!-- Area 3: Energy-efficient Computing -->
+                <div class="theme-block">
+                    <div class="theme-header">
+                        <div class="theme-icon">
+                            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                                <rect x="7" y="7" width="10" height="10" rx="1"></rect>
+                                <path d="M12 2v3M12 19v3M2 12h3M19 12h3M4.5 4.5l2 2M17.5 17.5l2 2M4.5 19.5l2-2M17.5 6.5l2-2"></path>
+                            </svg>
+                        </div>
+                        <div class="theme-header-text">
+                            <h3>Energy-efficient Computing for Embedded Systems</h3>
+                            <p class="theme-description">We create lightweight machine learning approaches for resource-constrained microcontrollers, enabling on-device intelligence for sensing and robotics over extended battery life. Our focus is on hyperdimensional computing and other brain-inspired paradigms that run efficiently on tiny processors.</p>
+                        </div>
+                    </div>
+                    <div class="project-carousel">
+                        <button class="carousel-btn carousel-prev" aria-label="Previous projects">‹</button>
+                        <div class="project-track">
+                            <a class="project-card" href="publications.html#mobicom2025">
+                                <img src="img/publications/2025_hypercam.png" alt="HyperCam">
+                                <h4>HyperCam</h4>
+                                <p>Onboard computer vision for IoT cameras using hyperdimensional computing (ACM MobiCom 2025)</p>
+                            </a>
+                            <a class="project-card" href="publications.html#iros2025">
+                                <img src="img/publications/2025_navhd.png" alt="NavHD">
+                                <h4>NavHD</h4>
+                                <p>Low-power navigation for micro-robots using brain-inspired HDC (IEEE IROS 2025)</p>
+                            </a>
+                        </div>
+                        <button class="carousel-btn carousel-next" aria-label="Next projects">›</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>S4 Lab</h4>
+                    <p>Stanford Smart Sensing Systems Lab<br>David Packard Building<br>Stanford University</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="research.html">Research</a></li>
+                        <li><a href="people.html">People</a></li>
+                        <li><a href="publications.html">Publications</a></li>
+                        <li><a href="support.html">Support</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js?v=3"></script>
+</body>
+</html>

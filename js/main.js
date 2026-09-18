@@ -50,4 +50,64 @@ window.addEventListener('scroll', () => {
     });
 });
 
-// Form submission (
+// Contact form submission
+const contactForm = document.getElementById('contactForm');
+if (contactForm) {
+    contactForm.addEventListener('submit', (e) => {
+        e.preventDefault();
+        const submitBtn = contactForm.querySelector('button[type="submit"]');
+        const originalText = submitBtn.textContent;
+        submitBtn.textContent = 'Message Sent!';
+        submitBtn.disabled = true;
+        contactForm.reset();
+        setTimeout(() => {
+            submitBtn.textContent = originalText;
+            submitBtn.disabled = false;
+        }, 3000);
+    });
+}
+
+// Project carousels (research page) — shows up to 4 cards, scrolls a page at a time
+document.querySelectorAll('.project-carousel').forEach(carousel => {
+    const track = carousel.querySelector('.project-track');
+    const prevBtn = carousel.querySelector('.carousel-prev');
+    const nextBtn = carousel.querySelector('.carousel-next');
+    if (!track || !prevBtn || !nextBtn) return;
+
+    function visibleCardCount() {
+        const card = track.querySelector('.project-card');
+        if (!card) return 4;
+        const style = getComputedStyle(track);
+        const gap = parseFloat(style.columnGap || style.gap || '0');
+        const cardWidth = card.getBoundingClientRect().width + gap;
+        return Math.max(1, Math.round(track.clientWidth / cardWidth));
+    }
+
+    function pageScrollAmount() {
+        const card = track.querySelector('.project-card');
+        if (!card) return track.clientWidth;
+        const style = getComputedStyle(track);
+        const gap = parseFloat(style.columnGap || style.gap || '0');
+        return (card.getBoundingClientRect().width + gap) * visibleCardCount();
+    }
+
+    function update() {
+        const maxScroll = track.scrollWidth - track.clientWidth;
+        const overflowing = maxScroll > 4;
+        prevBtn.classList.toggle('is-hidden', !overflowing);
+        nextBtn.classList.toggle('is-hidden', !overflowing);
+        prevBtn.disabled = track.scrollLeft <= 4;
+        nextBtn.disabled = track.scrollLeft >= maxScroll - 4;
+    }
+
+    prevBtn.addEventListener('click', () => {
+        track.scrollBy({ left: -pageScrollAmount(), behavior: 'smooth' });
+    });
+    nextBtn.addEventListener('click', () => {
+        track.scrollBy({ left: pageScrollAmount(), behavior: 'smooth' });
+    });
+    track.addEventListener('scroll', update);
+    window.addEventListener('resize', update);
+    window.addEventListener('load', update);
+    update();
+});
