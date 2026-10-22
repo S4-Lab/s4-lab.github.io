@@ -1610,3 +1610,7 @@ section {
         gap: 0.5rem;
     }
 }
+
+.pub-badges .badge-plain {
+    text-transform: none;
+}
