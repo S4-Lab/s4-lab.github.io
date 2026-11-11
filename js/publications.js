@@ -335,6 +335,7 @@ function createPublicationElement(pub) {
         video.controls = true;
         video.playsInline = true;
         video.preload = 'metadata';
+        video.poster = pub.image;
         video.setAttribute('aria-label', `Video for ${pub.title}`);
         video.style.cssText = 'display: block; width: 100%; max-width: 640px; height: auto; margin-top: 1rem; border-radius: 6px;';
 
