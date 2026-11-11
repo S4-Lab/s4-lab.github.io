@@ -5,12 +5,16 @@ category: wireless
 type: journal
 authors:
   - name: "J. Falconer"
+    note: "†"
   - name: "G. Ecola"
+    note: "†"
   - name: "Z. Kapetanovic"
 journal: "IEEE Journal of Microwaves"
 year_published: 2025
 image: "img/publications/2025_thermometry.png"
-badges: []
+badges:
+  - type: plain
+    text: "† Co-first authors; contributed equally."
 links:
   - icon: "📄"
     text: "PDF"
