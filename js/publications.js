@@ -264,6 +264,7 @@ function createPublicationElement(pub) {
     // Main content
     const mainContent = document.createElement('div');
     mainContent.className = 'pub-main-content';
+    mainContent.style.minWidth = '0';
 
     // Header
     const header = document.createElement('div');
@@ -326,6 +327,27 @@ function createPublicationElement(pub) {
     const abstractText = extractSection(pub._body || '', 'Abstract');
     if (abstractText) {
         mainContent.appendChild(createExpandableSection('Abstract', markdownToHTML(abstractText)));
+    }
+
+    // Optional video, displayed below the abstract section.
+    if (pub.video) {
+        const video = document.createElement('video');
+        video.controls = true;
+        video.playsInline = true;
+        video.preload = 'metadata';
+        video.setAttribute('aria-label', `Video for ${pub.title}`);
+        video.style.cssText = 'display: block; width: 100%; max-width: 640px; height: auto; margin-top: 1rem; border-radius: 6px;';
+
+        const source = document.createElement('source');
+        source.src = pub.video;
+        source.type = 'video/mp4';
+        video.appendChild(source);
+
+        const fallback = document.createElement('a');
+        fallback.href = pub.video;
+        fallback.textContent = 'Download the video';
+        video.appendChild(fallback);
+        mainContent.appendChild(video);
     }
 
     pubDiv.appendChild(imageDiv);
